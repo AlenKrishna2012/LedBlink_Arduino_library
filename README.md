@@ -51,4 +51,4 @@ void loop() {
 
 ## Author
 
-Your Name - AlenKrishna V.U (alenkrishnavu@gmail.com)
+AlenKrishna V.U (alenkrishnavu@gmail.com)
