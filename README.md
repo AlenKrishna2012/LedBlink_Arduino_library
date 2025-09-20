@@ -18,7 +18,7 @@ Search for **LedBlink** and install directly from the Arduino IDE.
 
 1. Download or clone this repository:
    bash
-   git clone https://github.com/AlenKrishna2012/LedBlink.git
+   git clone https://github.com/AlenKrishna2012/LedBlink_Arduino_library.git
    2. Copy the LedBlink folder into your Arduino libraries directory (Documents/Arduino/libraries).
 3. Restart the Arduino IDE.
 4. Include the library in your sketch:
